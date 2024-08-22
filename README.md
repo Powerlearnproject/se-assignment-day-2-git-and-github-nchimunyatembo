@@ -4,6 +4,7 @@ Assignment Number 2
 Course Name:Software Engineering
 Institution :PLP
 LIST OF QUESTION
+<a href="assignment day2.html">Link for assignment day2</a>
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
 
