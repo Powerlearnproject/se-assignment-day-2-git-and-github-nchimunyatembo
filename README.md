@@ -24,7 +24,7 @@ LIST OF QUESTION
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
-Fundamental Concepts of Version Control
+##Fundamental Concepts of Version Control
 Version control is a system that allows you to track changes to files over time. It provides a way to manage different versions of your project, collaborate effectively with others, and revert to previous states if needed.
 Key concepts:
 1.	Repository: A repository is a central location where all project files and their history are stored. It can be local or remote (e.g., on GitHub, GitLab, or Bitbucket).
